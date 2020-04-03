@@ -1,0 +1,5 @@
+$(document).ready(function () {
+    $("#side-panel").html(
+        '<div class="sidebar-header"><h3>Sidebar Items</h3></div><ul class="list-unstyled components"><p>Navigation</p><li class="active"><a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Game Reviews!</a><ul class="collapse list-unstyled" id="homeSubmenu"><li><a href="Site-Directory/landon.html">Landon\'s Review</a ></li > <li><a href="#">member2</a></li> <li><a href="#">member3</a></li> <li><a href="#">member4</a></li> <li><a href="#">member5</a></li> <li><a href="#">member6</a></li></ul ></li > <li><a href="Site-Directory/form.html">Get our Newsletter!</a></li> <li><a href="Site-Directory/template.html">Template Page</a></li> <li><a href="Site-Directory/about-us.html">About us!</a></li> <li><a href="Site-Directory/wireframe.htmll">Wireframe</a></li></ul>'
+    );
+});

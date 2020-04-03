@@ -132,6 +132,9 @@ nav.menu #member4:hover{
 nav.menu #member5:hover{
 	background-color: #40d377;
 }
+nav.menu #member6:hover{
+	background-color: #c740d3;
+}
 
 nav.menu #template-page:hover{
 	background-color: #676767;
@@ -421,7 +424,8 @@ tr img{
 
 td{
 	text-align: center;
-	max-width: 150px;
+	max-width: 175px;
+	min-width: 175px;
 }
 .names td{
 	border-radius: 20px 20px 0px 0px;
@@ -449,6 +453,10 @@ td{
 .names #member5{
 	background-color: #40d377;
 }
+.names #member6{
+	background-color: #c740d3;
+}
+
 
 .roles td{
 	background-image: linear-gradient(-1800deg, #2c2929, #3f3e3e);
@@ -476,6 +484,10 @@ td{
 .roles #dev{
 	color: #40d377;
 }
+.roles #dev2{
+	color: #c740d3;
+}
+
 
 .images td {
 	background-image: linear-gradient(-1800deg, #2c2929, #3f3e3e);
