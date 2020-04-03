@@ -243,6 +243,11 @@ footer {
 
 }
 
+.content-article .cite{
+	font-size: 12px;
+	text-align: center;
+}
+
 .content-article p {
 	font-family: "Roboto", sans-serif;
 	color:#000;
@@ -433,27 +438,27 @@ td{
 	color: #fff;
 }
 /*members' signature colors*/
-.names #landon{
+.names #Landon{
 	background-color: #7040d3;
 }
 
-.names #member2{
+.names #Tyler{
 	background-color: #d34040;;
 }
 
-.names #member3{
+.names #Brian{
 	background-color: #407bd3;
 }
 
-.names #member4{
+.names #Erika{
 	background-color: #d37440;
 	
 }
 
-.names #member5{
+.names #Fatemeh{
 	background-color: #40d377;
 }
-.names #member6{
+.names #Meghan{
 	background-color: #c740d3;
 }
 
@@ -561,6 +566,11 @@ td{
 	width: 500px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#reviews-area p{
+	text-align: center;
+	font-size: 12px;
 }
 
 /*Video Reviews Area*/
